@@ -1,5 +1,5 @@
 # OSR_microbiota
-This repository contains the scripts to reproduce the figures and calculations of the manuscript Rathore et al., describing the impact of tillage practices on the oilseed rape microbiota. The manuscript has been submitted on March 31st, 2017, the attached R code might change as a consequence of the revison process. A revised version of the manuscript was submitted on July 19th, 2017. The following files contain scripts and files to reproduce figures and calculation presented in the revised manuscript.
+This repository contains the scripts to reproduce the figures and calculations of the manuscript Rathore et al., describing the impact of tillage practices on the oilseed rape microbiota. The manuscript has been submitted to Frontiers in Microbiology on March 31st, 2017, the attached R code might change as a consequence of the revison process. A revised version of the manuscript was submitted on July 19th, 2017. The following files contain scripts and files to reproduce figures and calculation presented in the revised manuscript.
 
 -ANCOM_OSR_v190717.R script to reproduce ANCOM calculation and Figure S3
 
